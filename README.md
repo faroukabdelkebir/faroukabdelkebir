@@ -2,7 +2,7 @@
 
 # Hi, I'm Farouk Abdelkebir 👋
 
-### Full-Stack Software Engineer · Java / Spring Boot · Angular · DevOps · AI
+### Full-Stack Software Engineer 
 
 <a href="https://farouk-portfolio-beta.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Turning+ideas+into+full-stack+solutions.;Java+%7C+Spring+Boot+%7C+Spring+Batch+%7C+Spring+Cloud;Angular+%7C+TypeScript;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+AWS;LLMs+%7C+RAG+%7C+AI+Agents" alt="Typing SVG" />
@@ -12,11 +12,9 @@
   <a href="https://farouk-portfolio-beta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-080b14?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/farouk-abdelkebir/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:farouk.abdelkebir04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://farouk-portfolio-beta.vercel.app/assets/cv_farouk_abdelkebir_en.pdf"><img src="https://img.shields.io/badge/Resume-2E5AAC?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 </p>
 
 <img src="https://img.shields.io/badge/📍_Ariana,_Tunisia-1a1b27?style=flat-square" alt="Location" />
-<img src="https://img.shields.io/badge/🌍_Open_to_international_relocation-1a1b27?style=flat-square" alt="Relocation" />
 <img src="https://img.shields.io/badge/✅_Open_to_opportunities-1a1b27?style=flat-square" alt="Open to opportunities" />
 
 </div>
