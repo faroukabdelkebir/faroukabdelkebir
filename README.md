@@ -36,88 +36,6 @@ Software engineer (5-year **National Engineering Degree** in Software Engineerin
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏦 DataBridge Banking</h3>
-      <sub><b>Final-year project · Wevioo</b></sub>
-      <p>Microservices platform industrializing the ETL of Temenos T24 core-banking data (XML → SQL Server): idempotent full & incremental loads, data traceability, OAuth2 APIs behind Kong, real-time monitoring, and two AI agents for job scheduling and data-quality auditing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-      </p>
-      <a href="https://drive.google.com/file/d/1RAj6spnZN-Tk7z38rFIGQdUXr1WW-F_i/view?usp=drive_link">▶ Watch demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✍️ FlowSigna</h3>
-      <sub><b>Internship · Alma Technologies, Paris</b></sub>
-      <p>Electronic document workflow platform centralizing deposit, validation, signature and archiving, orchestrated with Flowable BPMN behind a secured Angular interface.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flowable_BPMN-1F6FEB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-      </p>
-      <a href="https://drive.google.com/file/d/1l3b_-uPrT7YoAFw_r0r_pI71FzFw0-br/view?usp=drive_link">▶ Watch demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ CI/CD & Kubernetes</h3>
-      <sub><b>DevOps project</b></sub>
-      <p>End-to-end delivery pipeline for a Spring Boot / Angular app: build, tests, SonarQube quality & vulnerability scans, Nexus packaging, Docker images, automated Kubernetes deployment, Prometheus & Grafana monitoring.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 SkillUp</h3>
-      <sub><b>Microservices platform</b></sub>
-      <p>Online learning platform built on Spring Cloud (Config Server, Eureka, API Gateway), secured with Keycloak, with Dockerized services and a user-management microservice written in Python.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚽ RS SPORT</h3>
-      <sub><b>Sports analytics platform</b></sub>
-      <p>Interactive tactical board (creation, animation, simulation), real-time chat, injury & recovery tracking, and a RAG-based AI feature that suggests personalized recovery plans.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square" />
-        <img src="https://img.shields.io/badge/RAG-8E44AD?style=flat-square" />
-      </p>
-      <a href="https://drive.google.com/file/d/1STbN-IN8_cpa_-EsJolRIjDmOwwnszek/view?usp=drive_link">▶ Watch demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Portfolio</h3>
-      <sub><b>Personal website</b></sub>
-      <p>Case studies, demo videos, experience and toolkit — all in one place.</p>
-      <a href="https://farouk-portfolio-beta.vercel.app/">→ farouk-portfolio-beta.vercel.app</a>
-      <br /><br />
-      <a href="https://github.com/faroukabdelkebir/farouk-portfolio">→ Source code</a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -141,20 +59,6 @@ Software engineer (5-year **National Engineering Degree** in Software Engineerin
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG_%26_AI_Agents-8E44AD?style=for-the-badge" />
 </p>
-
----
-
-## 💼 Experience & Education
-
-| Period | Role | Where |
-|---|---|---|
-| Feb 2026 – Aug 2026 | **Final-Year Engineering Intern** — Temenos T24 data extraction & migration platform | Wevioo · Tunis 🇹🇳 |
-| Jul 2025 – Sep 2025 | **Software Engineering Intern** — electronic document approval & signature platform | Alma Technologies · Paris 🇫🇷 |
-| Feb 2023 – Jun 2023 | **Final-Year Intern** — automation of a roller gap adjustment system | TESCA · Grombalia 🇹🇳 |
-| 2023 – 2026 | **National Engineering Degree** in Computer Science — Software Engineering | ESPRIT · Ariana |
-| 2020 – 2023 | **Higher Technician Diploma** in Industrial Computing | ISET · Nabeul |
-
-**Certifications:** NVIDIA — *Applications of AI for Anomaly Detection* · NVIDIA — *Building Transformer-Based NLP Applications* · TCF TP — French B2
 
 ---
 
